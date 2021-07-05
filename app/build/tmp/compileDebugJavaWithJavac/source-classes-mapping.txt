@@ -1,0 +1,424 @@
+br/ufrj/caronae/firebase/MyFirebaseMessagingService.java
+ br.ufrj.caronae.firebase.MyFirebaseMessagingService
+br/ufrj/caronae/commons/modules/LoadMoreModule.java
+ br.ufrj.caronae.commons.modules.LoadMoreModule
+ br.ufrj.caronae.commons.modules.LoadMoreModule$1
+ br.ufrj.caronae.commons.modules.LoadMoreModule$1$1
+br/ufrj/caronae/comparators/ChatMsgComparator.java
+ br.ufrj.caronae.comparators.ChatMsgComparator
+br/ufrj/caronae/models/Institution.java
+ br.ufrj.caronae.models.Institution
+br/ufrj/caronae/frags/MyRidesFrag.java
+ br.ufrj.caronae.frags.MyRidesFrag
+ br.ufrj.caronae.frags.MyRidesFrag$1
+ br.ufrj.caronae.frags.MyRidesFrag$2
+ br.ufrj.caronae.frags.MyRidesFrag$3
+br/ufrj/caronae/frags/OptionsMenuFrag.java
+ br.ufrj.caronae.frags.OptionsMenuFrag
+br/ufrj/caronae/acts/FalaeAct.java
+ br.ufrj.caronae.acts.FalaeAct
+ br.ufrj.caronae.acts.FalaeAct$1
+br/ufrj/caronae/commons/ui/ToolbarView.java
+ br.ufrj.caronae.commons.ui.ToolbarView
+ br.ufrj.caronae.commons.ui.ToolbarView$OnClickBackListener
+ br.ufrj.caronae.commons.ui.ToolbarView$OnClickNextListener
+ br.ufrj.caronae.commons.ui.ToolbarView$OnClickTitleListener
+br/ufrj/caronae/Util.java
+ br.ufrj.caronae.Util
+ br.ufrj.caronae.Util$1
+ br.ufrj.caronae.Util$OffsetDecoration
+br/ufrj/caronae/components/gallery/GridAdapter.java
+ br.ufrj.caronae.components.gallery.GridAdapter
+br/ufrj/caronae/customizedviews/RoundedTransformation.java
+ br.ufrj.caronae.customizedviews.RoundedTransformation
+br/ufrj/caronae/data/ImageSaver.java
+ br.ufrj.caronae.data.ImageSaver
+br/ufrj/caronae/commons/modules/ReboundModule.java
+ br.ufrj.caronae.commons.modules.ReboundModule
+ br.ufrj.caronae.commons.modules.ReboundModule$1
+ br.ufrj.caronae.commons.modules.ReboundModule$2
+br/ufrj/caronae/acts/MainAct.java
+ br.ufrj.caronae.acts.MainAct
+ br.ufrj.caronae.acts.MainAct$1
+ br.ufrj.caronae.acts.MainAct$2
+ br.ufrj.caronae.acts.MainAct$3
+ br.ufrj.caronae.acts.MainAct$4
+ br.ufrj.caronae.acts.MainAct$5
+ br.ufrj.caronae.acts.MainAct$6
+ br.ufrj.caronae.acts.MainAct$7
+ br.ufrj.caronae.acts.MainAct$8
+br/ufrj/caronae/customizedviews/SwipeDismissBaseActivity.java
+ br.ufrj.caronae.customizedviews.SwipeDismissBaseActivity
+ br.ufrj.caronae.customizedviews.SwipeDismissBaseActivity$1
+ br.ufrj.caronae.customizedviews.SwipeDismissBaseActivity$SwipeDetector
+br/ufrj/caronae/customizedviews/CustomBottomDialogClass.java
+ br.ufrj.caronae.customizedviews.CustomBottomDialogClass
+br/ufrj/caronae/acts/ChatAct.java
+ br.ufrj.caronae.acts.ChatAct
+ br.ufrj.caronae.acts.ChatAct$1
+ br.ufrj.caronae.acts.ChatAct$2
+ br.ufrj.caronae.acts.ChatAct$3
+ br.ufrj.caronae.acts.ChatAct$4
+ br.ufrj.caronae.acts.ChatAct$4$1
+br/ufrj/caronae/Constants.java
+ br.ufrj.caronae.Constants
+br/ufrj/caronae/interfaces/Updatable.java
+ br.ufrj.caronae.interfaces.Updatable
+br/ufrj/caronae/commons/models/enums/SourceType.java
+ br.ufrj.caronae.commons.models.enums.SourceType
+br/ufrj/caronae/models/modelsforjson/RideForJson.java
+ br.ufrj.caronae.models.modelsforjson.RideForJson
+ br.ufrj.caronae.models.modelsforjson.RideForJson$1
+br/ufrj/caronae/acts/RideDetailAct.java
+ br.ufrj.caronae.acts.RideDetailAct
+ br.ufrj.caronae.acts.RideDetailAct$1
+ br.ufrj.caronae.acts.RideDetailAct$10
+ br.ufrj.caronae.acts.RideDetailAct$11
+ br.ufrj.caronae.acts.RideDetailAct$12
+ br.ufrj.caronae.acts.RideDetailAct$13
+ br.ufrj.caronae.acts.RideDetailAct$14
+ br.ufrj.caronae.acts.RideDetailAct$14$1
+ br.ufrj.caronae.acts.RideDetailAct$15
+ br.ufrj.caronae.acts.RideDetailAct$16
+ br.ufrj.caronae.acts.RideDetailAct$17
+ br.ufrj.caronae.acts.RideDetailAct$2
+ br.ufrj.caronae.acts.RideDetailAct$3
+ br.ufrj.caronae.acts.RideDetailAct$4
+ br.ufrj.caronae.acts.RideDetailAct$5
+ br.ufrj.caronae.acts.RideDetailAct$6
+ br.ufrj.caronae.acts.RideDetailAct$7
+ br.ufrj.caronae.acts.RideDetailAct$7$1
+ br.ufrj.caronae.acts.RideDetailAct$8
+ br.ufrj.caronae.acts.RideDetailAct$9
+br/ufrj/caronae/commons/cameraview/api9/SurfaceViewPreview.java
+ br.ufrj.caronae.commons.cameraview.api9.SurfaceViewPreview
+ br.ufrj.caronae.commons.cameraview.api9.SurfaceViewPreview$1
+br/ufrj/caronae/httpapis/LoginService.java
+ br.ufrj.caronae.httpapis.LoginService
+ br.ufrj.caronae.httpapis.LoginService$1
+ br.ufrj.caronae.httpapis.LoginService$2
+ br.ufrj.caronae.httpapis.LoginService$2$1
+ br.ufrj.caronae.httpapis.LoginService$3
+br/ufrj/caronae/frags/FalaeFrag.java
+ br.ufrj.caronae.frags.FalaeFrag
+ br.ufrj.caronae.frags.FalaeFrag$1
+ br.ufrj.caronae.frags.FalaeFrag$2
+br/ufrj/caronae/frags/CentersHubsFrag.java
+ br.ufrj.caronae.frags.CentersHubsFrag
+br/ufrj/caronae/models/modelsforjson/PlacesForJson.java
+ br.ufrj.caronae.models.modelsforjson.PlacesForJson
+br/ufrj/caronae/components/gallery/MediaItemView.java
+ br.ufrj.caronae.components.gallery.MediaItemView
+br/ufrj/caronae/models/RideOffer.java
+ br.ufrj.caronae.models.RideOffer
+br/ufrj/caronae/commons/modules/ReboundModuleDelegate.java
+ br.ufrj.caronae.commons.modules.ReboundModuleDelegate
+br/ufrj/caronae/models/modelsforjson/LoginForJson.java
+ br.ufrj.caronae.models.modelsforjson.LoginForJson
+br/ufrj/caronae/commons/adapters/ViewWrapper.java
+ br.ufrj.caronae.commons.adapters.ViewWrapper
+br/ufrj/caronae/models/modelsforjson/ChatSendMessageForJson.java
+ br.ufrj.caronae.models.modelsforjson.ChatSendMessageForJson
+br/ufrj/caronae/commons/adapters/ViewPagerAdapter.java
+ br.ufrj.caronae.commons.adapters.ViewPagerAdapter
+br/ufrj/caronae/frags/TermsOfUseFrag.java
+ br.ufrj.caronae.frags.TermsOfUseFrag
+ br.ufrj.caronae.frags.TermsOfUseFrag$1
+br/ufrj/caronae/frags/MyProfileEditFrag.java
+ br.ufrj.caronae.frags.MyProfileEditFrag
+ br.ufrj.caronae.frags.MyProfileEditFrag$1
+ br.ufrj.caronae.frags.MyProfileEditFrag$10
+ br.ufrj.caronae.frags.MyProfileEditFrag$11
+ br.ufrj.caronae.frags.MyProfileEditFrag$12
+ br.ufrj.caronae.frags.MyProfileEditFrag$13
+ br.ufrj.caronae.frags.MyProfileEditFrag$14
+ br.ufrj.caronae.frags.MyProfileEditFrag$15
+ br.ufrj.caronae.frags.MyProfileEditFrag$2
+ br.ufrj.caronae.frags.MyProfileEditFrag$2$1
+ br.ufrj.caronae.frags.MyProfileEditFrag$3
+ br.ufrj.caronae.frags.MyProfileEditFrag$4
+ br.ufrj.caronae.frags.MyProfileEditFrag$5
+ br.ufrj.caronae.frags.MyProfileEditFrag$6
+ br.ufrj.caronae.frags.MyProfileEditFrag$7
+ br.ufrj.caronae.frags.MyProfileEditFrag$8
+ br.ufrj.caronae.frags.MyProfileEditFrag$9
+br/ufrj/caronae/httpapis/CaronaeAPIService.java
+ br.ufrj.caronae.httpapis.CaronaeAPIService
+br/ufrj/caronae/models/modelsforjson/JoinRequestIDsForJson.java
+ br.ufrj.caronae.models.modelsforjson.JoinRequestIDsForJson
+br/ufrj/caronae/models/ActiveRideId.java
+ br.ufrj.caronae.models.ActiveRideId
+br/ufrj/caronae/App.java
+ br.ufrj.caronae.App
+ br.ufrj.caronae.App$1
+ br.ufrj.caronae.App$2
+br/ufrj/caronae/httpapis/InvalidCredentialsException.java
+ br.ufrj.caronae.httpapis.InvalidCredentialsException
+br/ufrj/caronae/commons/cameraview/CameraView.java
+ br.ufrj.caronae.commons.cameraview.CameraView
+ br.ufrj.caronae.commons.cameraview.CameraView$1
+ br.ufrj.caronae.commons.cameraview.CameraView$Callback
+ br.ufrj.caronae.commons.cameraview.CameraView$CallbackBridge
+ br.ufrj.caronae.commons.cameraview.CameraView$Facing
+ br.ufrj.caronae.commons.cameraview.CameraView$Flash
+ br.ufrj.caronae.commons.cameraview.CameraView$SavedState
+ br.ufrj.caronae.commons.cameraview.CameraView$SavedState$1
+br/ufrj/caronae/frags/AllRidesListFrag.java
+ br.ufrj.caronae.frags.AllRidesListFrag
+ br.ufrj.caronae.frags.AllRidesListFrag$1
+ br.ufrj.caronae.frags.AllRidesListFrag$2
+br/ufrj/caronae/asyncs/FetchMyOfferedRidesService.java
+ br.ufrj.caronae.asyncs.FetchMyOfferedRidesService
+ br.ufrj.caronae.asyncs.FetchMyOfferedRidesService$1
+br/ufrj/caronae/commons/models/Post.java
+ br.ufrj.caronae.commons.models.Post
+br/ufrj/caronae/httpapis/CaronaeAPI.java
+ br.ufrj.caronae.httpapis.CaronaeAPI
+br/ufrj/caronae/frags/RideFilterFrag.java
+ br.ufrj.caronae.frags.RideFilterFrag
+br/ufrj/caronae/commons/cameraview/api23/Camera2Api23.java
+ br.ufrj.caronae.commons.cameraview.api23.Camera2Api23
+br/ufrj/caronae/models/ChatMessageSendResponse.java
+ br.ufrj.caronae.models.ChatMessageSendResponse
+br/ufrj/caronae/ACRAreport/CrashReportFactory.java
+ br.ufrj.caronae.ACRAreport.CrashReportFactory
+br/ufrj/caronae/models/modelsforjson/MyRidesForJson.java
+ br.ufrj.caronae.models.modelsforjson.MyRidesForJson
+br/ufrj/caronae/commons/models/Resource.java
+ br.ufrj.caronae.commons.models.Resource
+br/ufrj/caronae/firebase/FetchReceivedMessagesService.java
+ br.ufrj.caronae.firebase.FetchReceivedMessagesService
+ br.ufrj.caronae.firebase.FetchReceivedMessagesService$1
+ br.ufrj.caronae.firebase.FetchReceivedMessagesService$1$1
+br/ufrj/caronae/acts/LoginAct.java
+ br.ufrj.caronae.acts.LoginAct
+ br.ufrj.caronae.acts.LoginAct$1
+ br.ufrj.caronae.acts.LoginAct$2
+ br.ufrj.caronae.acts.LoginAct$3
+br/ufrj/caronae/models/RideHistory.java
+ br.ufrj.caronae.models.RideHistory
+br/ufrj/caronae/components/gallery/GridAdapterListener.java
+ br.ufrj.caronae.components.gallery.GridAdapterListener
+br/ufrj/caronae/models/ChatMessageReceived.java
+ br.ufrj.caronae.models.ChatMessageReceived
+br/ufrj/caronae/frags/SearchRidesListFrag.java
+ br.ufrj.caronae.frags.SearchRidesListFrag
+ br.ufrj.caronae.frags.SearchRidesListFrag$1
+ br.ufrj.caronae.frags.SearchRidesListFrag$2
+ br.ufrj.caronae.frags.SearchRidesListFrag$3
+br/ufrj/caronae/models/ChatAssets.java
+ br.ufrj.caronae.models.ChatAssets
+br/ufrj/caronae/models/User.java
+ br.ufrj.caronae.models.User
+ br.ufrj.caronae.models.User$1
+br/ufrj/caronae/models/UserChatMessageReceived.java
+ br.ufrj.caronae.models.UserChatMessageReceived
+br/ufrj/caronae/commons/cameraview/api14/TextureViewPreview.java
+ br.ufrj.caronae.commons.cameraview.api14.TextureViewPreview
+ br.ufrj.caronae.commons.cameraview.api14.TextureViewPreview$1
+br/ufrj/caronae/adapters/MyRidesAdapter.java
+ br.ufrj.caronae.adapters.MyRidesAdapter
+ br.ufrj.caronae.adapters.MyRidesAdapter$1
+ br.ufrj.caronae.adapters.MyRidesAdapter$ViewHolder
+br/ufrj/caronae/acts/StartAct.java
+ br.ufrj.caronae.acts.StartAct
+br/ufrj/caronae/commons/cameraview/ViewCompat2.java
+ br.ufrj.caronae.commons.cameraview.ViewCompat2
+br/ufrj/caronae/customizedviews/CustomDateTimePicker.java
+ br.ufrj.caronae.customizedviews.CustomDateTimePicker
+ br.ufrj.caronae.customizedviews.CustomDateTimePicker$1
+ br.ufrj.caronae.customizedviews.CustomDateTimePicker$2
+ br.ufrj.caronae.customizedviews.CustomDateTimePicker$3
+br/ufrj/caronae/models/RideRequestSent.java
+ br.ufrj.caronae.models.RideRequestSent
+br/ufrj/caronae/commons/cameraview/DisplayOrientationDetector.java
+ br.ufrj.caronae.commons.cameraview.DisplayOrientationDetector
+ br.ufrj.caronae.commons.cameraview.DisplayOrientationDetector$1
+br/ufrj/caronae/models/modelsforjson/FalaeMsgForJson.java
+ br.ufrj.caronae.models.modelsforjson.FalaeMsgForJson
+br/ufrj/caronae/frags/MyProfileShowFrag.java
+ br.ufrj.caronae.frags.MyProfileShowFrag
+ br.ufrj.caronae.frags.MyProfileShowFrag$1
+br/ufrj/caronae/acts/MediaAct.java
+ br.ufrj.caronae.acts.MediaAct
+ br.ufrj.caronae.acts.MediaAct$1
+br/ufrj/caronae/commons/models/Author.java
+ br.ufrj.caronae.commons.models.Author
+br/ufrj/caronae/frags/RideSearchFrag.java
+ br.ufrj.caronae.frags.RideSearchFrag
+br/ufrj/caronae/frags/AllRidesFrag.java
+ br.ufrj.caronae.frags.AllRidesFrag
+ br.ufrj.caronae.frags.AllRidesFrag$1
+br/ufrj/caronae/customizedviews/EndlessRecyclerViewScrollListener.java
+ br.ufrj.caronae.customizedviews.EndlessRecyclerViewScrollListener
+br/ufrj/caronae/commons/cameraview/base/PreviewImpl.java
+ br.ufrj.caronae.commons.cameraview.base.PreviewImpl
+ br.ufrj.caronae.commons.cameraview.base.PreviewImpl$Callback
+br/ufrj/caronae/commons/cameraview/base/Size.java
+ br.ufrj.caronae.commons.cameraview.base.Size
+br/ufrj/caronae/commons/modules/PermissionModule.java
+ br.ufrj.caronae.commons.modules.PermissionModule
+br/ufrj/caronae/comparators/SortRides.java
+ br.ufrj.caronae.comparators.SortRides
+br/ufrj/caronae/acts/BrowsableAct.java
+ br.ufrj.caronae.acts.BrowsableAct
+br/ufrj/caronae/frags/RideOfferFrag.java
+ br.ufrj.caronae.frags.RideOfferFrag
+ br.ufrj.caronae.frags.RideOfferFrag$1
+ br.ufrj.caronae.frags.RideOfferFrag$2
+ br.ufrj.caronae.frags.RideOfferFrag$3
+br/ufrj/caronae/frags/ZonesFrag.java
+ br.ufrj.caronae.frags.ZonesFrag
+ br.ufrj.caronae.frags.ZonesFrag$1
+br/ufrj/caronae/models/ModelValidateDuplicate.java
+ br.ufrj.caronae.models.ModelValidateDuplicate
+br/ufrj/caronae/acts/PlaceAct.java
+ br.ufrj.caronae.acts.PlaceAct
+ br.ufrj.caronae.acts.PlaceAct$1
+ br.ufrj.caronae.acts.PlaceAct$2
+ br.ufrj.caronae.acts.PlaceAct$3
+ br.ufrj.caronae.acts.PlaceAct$4
+br/ufrj/caronae/data/SharedPref.java
+ br.ufrj.caronae.data.SharedPref
+br/ufrj/caronae/acts/OpeningAct.java
+ br.ufrj.caronae.acts.OpeningAct
+ br.ufrj.caronae.acts.OpeningAct$1
+ br.ufrj.caronae.acts.OpeningAct$2
+br/ufrj/caronae/commons/cameraview/base/AspectRatio.java
+ br.ufrj.caronae.commons.cameraview.base.AspectRatio
+ br.ufrj.caronae.commons.cameraview.base.AspectRatio$1
+br/ufrj/caronae/commons/modules/LoadMoreModuleDelegate.java
+ br.ufrj.caronae.commons.modules.LoadMoreModuleDelegate
+br/ufrj/caronae/models/RideRequestReceived.java
+ br.ufrj.caronae.models.RideRequestReceived
+br/ufrj/caronae/firebase/FirebaseTopicsHandler.java
+ br.ufrj.caronae.firebase.FirebaseTopicsHandler
+br/ufrj/caronae/models/Ride.java
+ br.ufrj.caronae.models.Ride
+br/ufrj/caronae/components/photo/CapturePhotoFragment.java
+ br.ufrj.caronae.components.photo.CapturePhotoFragment
+ br.ufrj.caronae.components.photo.CapturePhotoFragment$1
+ br.ufrj.caronae.components.photo.CapturePhotoFragment$2
+ br.ufrj.caronae.components.photo.CapturePhotoFragment$2$1
+br/ufrj/caronae/BuildConfig.java
+ br.ufrj.caronae.BuildConfig
+br/ufrj/caronae/frags/CampiFrag.java
+ br.ufrj.caronae.frags.CampiFrag
+ br.ufrj.caronae.frags.CampiFrag$1
+br/ufrj/caronae/acts/MyProfileAct.java
+ br.ufrj.caronae.acts.MyProfileAct
+br/ufrj/caronae/frags/FAQFrag.java
+ br.ufrj.caronae.frags.FAQFrag
+ br.ufrj.caronae.frags.FAQFrag$1
+br/ufrj/caronae/customizedviews/CustomDialogClass.java
+ br.ufrj.caronae.customizedviews.CustomDialogClass
+br/ufrj/caronae/models/modelsforjson/TokenForJson.java
+ br.ufrj.caronae.models.modelsforjson.TokenForJson
+br/ufrj/caronae/models/modelsforjson/FacebookFriendForJson.java
+ br.ufrj.caronae.models.modelsforjson.FacebookFriendForJson
+br/ufrj/caronae/data/MainThreadBus.java
+ br.ufrj.caronae.data.MainThreadBus
+ br.ufrj.caronae.data.MainThreadBus$1
+br/ufrj/caronae/models/modelsforjson/UserForJson.java
+ br.ufrj.caronae.models.modelsforjson.UserForJson
+br/ufrj/caronae/acts/WelcomeAct.java
+ br.ufrj.caronae.acts.WelcomeAct
+br/ufrj/caronae/models/ChatMessageReceivedFromJson.java
+ br.ufrj.caronae.models.ChatMessageReceivedFromJson
+br/ufrj/caronae/httpapis/APIInterceptor.java
+ br.ufrj.caronae.httpapis.APIInterceptor
+br/ufrj/caronae/customizedviews/CustomPlaceBar.java
+ br.ufrj.caronae.customizedviews.CustomPlaceBar
+ br.ufrj.caronae.customizedviews.CustomPlaceBar$1
+br/ufrj/caronae/models/modelsforjson/RideHistoryForJson.java
+ br.ufrj.caronae.models.modelsforjson.RideHistoryForJson
+br/ufrj/caronae/acts/ProfileAct.java
+ br.ufrj.caronae.acts.ProfileAct
+ br.ufrj.caronae.acts.ProfileAct$1
+ br.ufrj.caronae.acts.ProfileAct$2
+br/ufrj/caronae/models/NewChatMsgIndicator.java
+ br.ufrj.caronae.models.NewChatMsgIndicator
+br/ufrj/caronae/commons/cameraview/base/CameraViewImpl.java
+ br.ufrj.caronae.commons.cameraview.base.CameraViewImpl
+ br.ufrj.caronae.commons.cameraview.base.CameraViewImpl$Callback
+br/ufrj/caronae/commons/cameraview/base/Constants.java
+ br.ufrj.caronae.commons.cameraview.base.Constants
+br/ufrj/caronae/adapters/RidesAdapter.java
+ br.ufrj.caronae.adapters.RidesAdapter
+ br.ufrj.caronae.adapters.RidesAdapter$1
+ br.ufrj.caronae.adapters.RidesAdapter$ViewHolder
+br/ufrj/caronae/models/Campi.java
+ br.ufrj.caronae.models.Campi
+br/ufrj/caronae/adapters/AllRidesFragmentPagerAdapter.java
+ br.ufrj.caronae.adapters.AllRidesFragmentPagerAdapter
+br/ufrj/caronae/models/modelsforjson/RideForJsonDeserializer.java
+ br.ufrj.caronae.models.modelsforjson.RideForJsonDeserializer
+br/ufrj/caronae/commons/cameraview/base/SizeMap.java
+ br.ufrj.caronae.commons.cameraview.base.SizeMap
+br/ufrj/caronae/commons/adapters/RecyclerViewAdapterBase.java
+ br.ufrj.caronae.commons.adapters.RecyclerViewAdapterBase
+br/ufrj/caronae/adapters/ChatMsgsAdapter.java
+ br.ufrj.caronae.adapters.ChatMsgsAdapter
+ br.ufrj.caronae.adapters.ChatMsgsAdapter$1
+ br.ufrj.caronae.adapters.ChatMsgsAdapter$ViewHolderLeft
+ br.ufrj.caronae.adapters.ChatMsgsAdapter$ViewHolderRight
+br/ufrj/caronae/commons/models/Session.java
+ br.ufrj.caronae.commons.models.Session
+br/ufrj/caronae/acts/MenuOptionsAct.java
+ br.ufrj.caronae.acts.MenuOptionsAct
+br/ufrj/caronae/acts/RideSearchAct.java
+ br.ufrj.caronae.acts.RideSearchAct
+ br.ufrj.caronae.acts.RideSearchAct$1
+ br.ufrj.caronae.acts.RideSearchAct$2
+ br.ufrj.caronae.acts.RideSearchAct$3
+br/ufrj/caronae/models/ModelReceivedFromChat.java
+ br.ufrj.caronae.models.ModelReceivedFromChat
+br/ufrj/caronae/ACRAreport/CrashReportSender.java
+ br.ufrj.caronae.ACRAreport.CrashReportSender
+ br.ufrj.caronae.ACRAreport.CrashReportSender$1
+br/ufrj/caronae/customizedviews/CustomPhoneDialogClass.java
+ br.ufrj.caronae.customizedviews.CustomPhoneDialogClass
+br/ufrj/caronae/frags/RidesHistoryFrag.java
+ br.ufrj.caronae.frags.RidesHistoryFrag
+ br.ufrj.caronae.frags.RidesHistoryFrag$1
+ br.ufrj.caronae.frags.RidesHistoryFrag$2
+br/ufrj/caronae/httpapis/Tls12SocketFactory.java
+ br.ufrj.caronae.httpapis.Tls12SocketFactory
+br/ufrj/caronae/httpapis/ServiceCallback.java
+ br.ufrj.caronae.httpapis.ServiceCallback
+br/ufrj/caronae/components/gallery/GalleryPickerFragment.java
+ br.ufrj.caronae.components.gallery.GalleryPickerFragment
+ br.ufrj.caronae.components.gallery.GalleryPickerFragment$1
+br/ufrj/caronae/frags/NeighborhoodsFrag.java
+ br.ufrj.caronae.frags.NeighborhoodsFrag
+br/ufrj/caronae/frags/AboutFrag.java
+ br.ufrj.caronae.frags.AboutFrag
+ br.ufrj.caronae.frags.AboutFrag$1
+br/ufrj/caronae/customizedviews/ExpandPhotoDialogClass.java
+ br.ufrj.caronae.customizedviews.ExpandPhotoDialogClass
+br/ufrj/caronae/components/gallery/MediaItemViewListener.java
+ br.ufrj.caronae.components.gallery.MediaItemViewListener
+br/ufrj/caronae/models/RideEndedEvent.java
+ br.ufrj.caronae.models.RideEndedEvent
+br/ufrj/caronae/asyncs/LogOut.java
+ br.ufrj.caronae.asyncs.LogOut
+br/ufrj/caronae/commons/cameraview/api14/Camera1.java
+ br.ufrj.caronae.commons.cameraview.api14.Camera1
+ br.ufrj.caronae.commons.cameraview.api14.Camera1$1
+ br.ufrj.caronae.commons.cameraview.api14.Camera1$2
+ br.ufrj.caronae.commons.cameraview.api14.Camera1$3
+br/ufrj/caronae/adapters/RidesHistoryAdapter.java
+ br.ufrj.caronae.adapters.RidesHistoryAdapter
+ br.ufrj.caronae.adapters.RidesHistoryAdapter$1
+ br.ufrj.caronae.adapters.RidesHistoryAdapter$ViewHolder
+br/ufrj/caronae/commons/cameraview/api21/Camera2.java
+ br.ufrj.caronae.commons.cameraview.api21.Camera2
+ br.ufrj.caronae.commons.cameraview.api21.Camera2$1
+ br.ufrj.caronae.commons.cameraview.api21.Camera2$2
+ br.ufrj.caronae.commons.cameraview.api21.Camera2$3
+ br.ufrj.caronae.commons.cameraview.api21.Camera2$4
+ br.ufrj.caronae.commons.cameraview.api21.Camera2$5
+ br.ufrj.caronae.commons.cameraview.api21.Camera2$6
+ br.ufrj.caronae.commons.cameraview.api21.Camera2$PictureCaptureCallback
+br/ufrj/caronae/models/Zone.java
+ br.ufrj.caronae.models.Zone

@@ -1,0 +1,516 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="br.ufrj.caronae"
+4    android:versionCode="37"
+5    android:versionName="3.0.7" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.WAKE_LOCK" />
+12-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:7:5-68
+12-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:7:22-65
+13    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+13-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:8:5-82
+13-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:8:22-79
+14    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+14-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:9:5-81
+14-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:9:22-78
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:10:5-79
+15-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:10:22-76
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:11:5-81
+16-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:12:5-80
+17-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:12:22-77
+18    <uses-permission android:name="android.permission.CAMERA" />
+18-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:13:5-65
+18-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:13:22-62
+19    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+19-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:14:5-71
+19-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:14:22-68
+20    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+20-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:26:5-110
+20-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:26:22-107
+21
+22    <application
+22-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:16:5-158:19
+23        android:name="br.ufrj.caronae.App"
+23-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:17:9-28
+24        android:allowBackup="true"
+24-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:18:9-35
+25        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+25-->[com.android.support:support-compat:28.0.0] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\f287d9ec2d0eb9ca182bb67be3919c60\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+26        android:debuggable="true"
+27        android:icon="@mipmap/ic_launcher"
+27-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:20:9-43
+28        android:label="@string/app_name"
+28-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:21:9-41
+29        android:networkSecurityConfig="@xml/network"
+29-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:19:9-53
+30        android:supportsRtl="true"
+30-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:22:9-35
+31        android:testOnly="true"
+32        android:theme="@style/AppTheme"
+32-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:23:9-40
+33        android:vmSafeMode="true" >
+33-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:24:9-34
+34        <meta-data
+34-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:25:9-27:43
+35            android:name="DATABASE"
+35-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:26:13-36
+36            android:value="caronaee.db" />
+36-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:27:13-40
+37        <meta-data
+37-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:28:9-30:33
+38            android:name="VERSION"
+38-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:29:13-35
+39            android:value="1" />
+39-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:30:13-30
+40        <meta-data
+40-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:31:9-33:36
+41            android:name="QUERY_LOG"
+41-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:32:13-37
+42            android:value="true" />
+42-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:33:13-33
+43        <meta-data
+43-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:34:9-36:54
+44            android:name="DOMAIN_PACKAGE_NAME"
+44-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:35:13-47
+45            android:value="br.ufrj.caronae.models" />
+45-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:36:13-51
+46        <meta-data
+46-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:37:9-39:55
+47            android:name="com.facebook.sdk.ApplicationId"
+47-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:38:13-58
+48            android:value="@string/facebook_app_id" />
+48-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:39:13-52
+49
+50        <activity
+50-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:41:9-50:20
+51            android:name="br.ufrj.caronae.acts.StartAct"
+51-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:42:13-42
+52            android:label="Caronaê"
+52-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:43:13-36
+53            android:screenOrientation="portrait" >
+53-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:44:13-49
+54            <intent-filter>
+54-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:45:13-49:29
+55                <action android:name="android.intent.action.MAIN" />
+55-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:46:17-69
+55-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:46:25-66
+56
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:48:17-77
+57-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:48:27-74
+58            </intent-filter>
+59        </activity>
+60        <activity
+60-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:51:9-55:52
+61            android:name="br.ufrj.caronae.acts.MainAct"
+61-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:52:13-41
+62            android:label="@string/title_activity_main"
+62-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:53:13-56
+63            android:launchMode="singleTop"
+63-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:54:13-43
+64            android:screenOrientation="portrait" />
+64-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:55:13-49
+65        <activity
+65-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:57:9-60:52
+66            android:name="br.ufrj.caronae.acts.RideSearchAct"
+66-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:57:19-53
+67            android:label="@string/title_activity_ride_search"
+67-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:58:13-63
+68            android:launchMode="singleTop"
+68-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:59:13-43
+69            android:screenOrientation="portrait" />
+69-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:60:13-49
+70        <activity
+70-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:61:9-65:67
+71            android:name="br.ufrj.caronae.acts.LoginAct"
+71-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:62:13-42
+72            android:label="@string/title_activity_login"
+72-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:63:13-57
+73            android:screenOrientation="portrait"
+73-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:64:13-49
+74            android:windowSoftInputMode="stateVisible" />
+74-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:65:13-55
+75        <activity
+75-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:66:9-71:54
+76            android:name="br.ufrj.caronae.acts.OpeningAct"
+76-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:67:13-44
+77            android:configChanges="orientation|keyboardHidden|screenSize"
+77-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:68:13-74
+78            android:label="@string/title_activity_opening"
+78-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:69:13-59
+79            android:screenOrientation="portrait"
+79-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:70:13-49
+80            android:theme="@style/FullscreenTheme" />
+80-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:71:13-51
+81        <activity
+81-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:72:9-77:54
+82            android:name="br.ufrj.caronae.acts.WelcomeAct"
+82-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:73:13-44
+83            android:configChanges="orientation|keyboardHidden|screenSize"
+83-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:74:13-74
+84            android:label="@string/title_activity_first_login"
+84-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:75:13-63
+85            android:screenOrientation="portrait"
+85-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:76:13-49
+86            android:theme="@style/FullscreenTheme" />
+86-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:77:13-51
+87        <activity
+87-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:78:9-82:57
+88            android:name="br.ufrj.caronae.acts.ChatAct"
+88-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:79:13-41
+89            android:label="@string/app_name"
+89-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:80:13-45
+90            android:screenOrientation="portrait"
+90-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:81:13-49
+91            android:windowSoftInputMode="stateHidden" />
+91-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:82:13-54
+92        <activity
+92-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:83:9-88:45
+93            android:name="com.facebook.FacebookActivity"
+93-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:84:13-57
+94            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+94-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:85:13-96
+95            android:label="@string/app_name"
+95-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:86:13-45
+96            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+96-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:87:13-72
+97        <activity
+97-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:89:9-92:52
+98            android:name="br.ufrj.caronae.acts.ProfileAct"
+98-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:90:13-44
+99            android:label="@string/title_activity_profile"
+99-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:91:13-59
+100            android:screenOrientation="portrait" />
+100-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:92:13-49
+101        <activity
+101-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:93:9-96:52
+102            android:name="br.ufrj.caronae.acts.FalaeAct"
+102-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:94:13-42
+103            android:label="@string/title_activity_falae"
+103-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:95:13-57
+104            android:screenOrientation="portrait" />
+104-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:96:13-49
+105        <activity
+105-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:97:9-100:52
+106            android:name="br.ufrj.caronae.acts.MenuOptionsAct"
+106-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:98:13-48
+107            android:label="@string/title_activity_menu_options"
+107-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:99:13-64
+108            android:screenOrientation="portrait" />
+108-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:100:13-49
+109        <activity
+109-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:101:9-104:52
+110            android:name="br.ufrj.caronae.acts.MyProfileAct"
+110-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:102:13-46
+111            android:label="@string/title_activity_my_profile"
+111-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:103:13-62
+112            android:screenOrientation="portrait" />
+112-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:104:13-49
+113        <activity
+113-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:105:9-108:52
+114            android:name="br.ufrj.caronae.acts.PlaceAct"
+114-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:106:13-42
+115            android:label="@string/title_activity_place"
+115-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:107:13-57
+116            android:screenOrientation="portrait" />
+116-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:108:13-49
+117        <activity
+117-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:109:9-136:20
+118            android:name="br.ufrj.caronae.acts.BrowsableAct"
+118-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:110:13-46
+119            android:label="@string/app_name"
+119-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:111:13-45
+120            android:screenOrientation="portrait" >
+120-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:112:13-49
+121            <intent-filter>
+121-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:113:13-120:29
+122                <data android:scheme="caronae" />
+122-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:114:17-50
+122-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:114:23-47
+123
+124                <action android:name="android.intent.action.VIEW" />
+124-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:116:17-69
+124-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:116:25-66
+125
+126                <category android:name="android.intent.category.DEFAULT" />
+126-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:118:17-76
+126-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:118:27-73
+127                <category android:name="android.intent.category.BROWSABLE" />
+127-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:119:17-78
+127-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:119:27-75
+128            </intent-filter>
+129            <intent-filter>
+129-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:121:13-135:29
+130                <data
+130-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:114:17-50
+131                    android:host="caronae.org"
+131-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:123:21-47
+132                    android:pathPrefix="/carona/"
+132-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:124:21-50
+133                    android:scheme="https" />
+133-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:114:23-47
+134                <data
+134-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:114:17-50
+135                    android:host="caronae.org"
+135-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:123:21-47
+136                    android:pathPrefix="/login/"
+136-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:124:21-50
+137                    android:scheme="https" />
+137-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:114:23-47
+138
+139                <action android:name="android.intent.action.VIEW" />
+139-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:116:17-69
+139-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:116:25-66
+140
+141                <category android:name="android.intent.category.DEFAULT" />
+141-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:118:17-76
+141-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:118:27-73
+142                <category android:name="android.intent.category.BROWSABLE" />
+142-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:119:17-78
+142-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:119:27-75
+143            </intent-filter>
+144        </activity>
+145        <activity
+145-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:137:9-140:52
+146            android:name="br.ufrj.caronae.acts.RideDetailAct"
+146-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:138:13-47
+147            android:label="@string/app_name"
+147-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:139:13-45
+148            android:screenOrientation="portrait" />
+148-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:140:13-49
+149        <activity
+149-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:142:9-144:51
+150            android:name="br.ufrj.caronae.acts.MediaAct"
+150-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:142:19-48
+151            android:hardwareAccelerated="true"
+151-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:143:13-47
+152            android:screenOrientation="portrait" />
+152-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:144:13-49
+153
+154        <service android:name="br.ufrj.caronae.firebase.MyFirebaseMessagingService" >
+154-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:146:9-150:19
+154-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:146:18-69
+155            <intent-filter>
+155-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:147:13-149:29
+156                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+156-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:148:17-78
+156-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:148:25-75
+157            </intent-filter>
+158        </service>
+159        <service
+159-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:151:9-154:39
+160            android:name="br.ufrj.caronae.firebase.FetchReceivedMessagesService"
+160-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:152:13-66
+161            android:enabled="true"
+161-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:153:13-35
+162            android:exported="true" />
+162-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:154:13-36
+163        <service
+163-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:155:9-157:40
+164            android:name="br.ufrj.caronae.asyncs.FetchMyOfferedRidesService"
+164-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:156:13-62
+165            android:exported="false" />
+165-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:157:13-37
+166        <!--
+167             FirebaseMessagingService performs security checks at runtime,
+168             no need for explicit permissions despite exported="true"
+169        -->
+170        <service
+170-->[com.google.firebase:firebase-messaging:17.3.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\13b71e3b9f3f17b08de072971455668f\firebase-messaging-17.3.4\AndroidManifest.xml:28:9-34:19
+171            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+171-->[com.google.firebase:firebase-messaging:17.3.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\13b71e3b9f3f17b08de072971455668f\firebase-messaging-17.3.4\AndroidManifest.xml:29:13-82
+172            android:exported="true" >
+172-->[com.google.firebase:firebase-messaging:17.3.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\13b71e3b9f3f17b08de072971455668f\firebase-messaging-17.3.4\AndroidManifest.xml:30:13-36
+173            <intent-filter android:priority="-500" >
+173-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:147:13-149:29
+174                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+174-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:148:17-78
+174-->C:\Users\Lucas\Desktop\caronae-backend-22-06\android\caronae-android-master\app\src\main\AndroidManifest.xml:148:25-75
+175            </intent-filter>
+176        </service>
+177
+178        <activity android:name="com.facebook.CustomTabMainActivity" />
+178-->[com.facebook.android:facebook-common:4.31.0] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\87d8a8b00a480d4a4cd6b8b508922b19\facebook-common-4.31.0\AndroidManifest.xml:33:9-71
+178-->[com.facebook.android:facebook-common:4.31.0] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\87d8a8b00a480d4a4cd6b8b508922b19\facebook-common-4.31.0\AndroidManifest.xml:33:19-68
+179        <activity
+179-->[ch.acra:acra:4.9.2] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6b483e339ae8f79b3032cbc107361258\acra-4.9.2\AndroidManifest.xml:40:9-241
+180            android:name="org.acra.dialog.CrashReportDialog"
+180-->[ch.acra:acra:4.9.2] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6b483e339ae8f79b3032cbc107361258\acra-4.9.2\AndroidManifest.xml:40:123-171
+181            android:excludeFromRecents="true"
+181-->[ch.acra:acra:4.9.2] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6b483e339ae8f79b3032cbc107361258\acra-4.9.2\AndroidManifest.xml:40:19-52
+182            android:finishOnTaskLaunch="true"
+182-->[ch.acra:acra:4.9.2] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6b483e339ae8f79b3032cbc107361258\acra-4.9.2\AndroidManifest.xml:40:53-86
+183            android:launchMode="singleInstance"
+183-->[ch.acra:acra:4.9.2] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6b483e339ae8f79b3032cbc107361258\acra-4.9.2\AndroidManifest.xml:40:87-122
+184            android:process=":acra"
+184-->[ch.acra:acra:4.9.2] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6b483e339ae8f79b3032cbc107361258\acra-4.9.2\AndroidManifest.xml:40:172-195
+185            android:theme="@android:style/Theme.Dialog" />
+185-->[ch.acra:acra:4.9.2] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6b483e339ae8f79b3032cbc107361258\acra-4.9.2\AndroidManifest.xml:40:196-239
+186
+187        <service
+187-->[ch.acra:acra:4.9.2] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6b483e339ae8f79b3032cbc107361258\acra-4.9.2\AndroidManifest.xml:42:9-113
+188            android:name="org.acra.sender.SenderService"
+188-->[ch.acra:acra:4.9.2] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6b483e339ae8f79b3032cbc107361258\acra-4.9.2\AndroidManifest.xml:42:43-87
+189            android:exported="false"
+189-->[ch.acra:acra:4.9.2] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6b483e339ae8f79b3032cbc107361258\acra-4.9.2\AndroidManifest.xml:42:18-42
+190            android:process=":acra" />
+190-->[ch.acra:acra:4.9.2] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6b483e339ae8f79b3032cbc107361258\acra-4.9.2\AndroidManifest.xml:42:88-111
+191        <service
+191-->[com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\5a77936171a9be0dd20767d8ef95ea3c\firebase-measurement-connector-impl-17.0.4\AndroidManifest.xml:27:9-31:19
+192            android:name="com.google.firebase.components.ComponentDiscoveryService"
+192-->[com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\5a77936171a9be0dd20767d8ef95ea3c\firebase-measurement-connector-impl-17.0.4\AndroidManifest.xml:27:18-89
+193            android:exported="false" >
+193-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6fbc52654bb79ad642ebabbf44c7b8c1\firebase-iid-17.0.4\AndroidManifest.xml:31:13-37
+194            <meta-data
+194-->[com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\5a77936171a9be0dd20767d8ef95ea3c\firebase-measurement-connector-impl-17.0.4\AndroidManifest.xml:28:13-30:85
+195                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+195-->[com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\5a77936171a9be0dd20767d8ef95ea3c\firebase-measurement-connector-impl-17.0.4\AndroidManifest.xml:29:17-139
+196                android:value="com.google.firebase.components.ComponentRegistrar" />
+196-->[com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\5a77936171a9be0dd20767d8ef95ea3c\firebase-measurement-connector-impl-17.0.4\AndroidManifest.xml:30:17-82
+197            <meta-data
+197-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6fbc52654bb79ad642ebabbf44c7b8c1\firebase-iid-17.0.4\AndroidManifest.xml:32:13-34:85
+198                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+198-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6fbc52654bb79ad642ebabbf44c7b8c1\firebase-iid-17.0.4\AndroidManifest.xml:33:17-96
+199                android:value="com.google.firebase.components.ComponentRegistrar" />
+199-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6fbc52654bb79ad642ebabbf44c7b8c1\firebase-iid-17.0.4\AndroidManifest.xml:34:17-82
+200        </service>
+201
+202        <receiver
+202-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:29:9-33:20
+203            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+203-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:30:13-85
+204            android:enabled="true"
+204-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:31:13-35
+205            android:exported="false" >
+205-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:32:13-37
+206        </receiver>
+207        <receiver
+207-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:34:9-42:20
+208            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+208-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:35:13-100
+209            android:enabled="true"
+209-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:36:13-35
+210            android:exported="true"
+210-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:37:13-36
+211            android:permission="android.permission.INSTALL_PACKAGES" >
+211-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:38:13-69
+212            <intent-filter>
+212-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:39:13-41:29
+213                <action android:name="com.android.vending.INSTALL_REFERRER" />
+213-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:40:17-79
+213-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:40:25-76
+214            </intent-filter>
+215        </receiver>
+216
+217        <service
+217-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:44:9-47:40
+218            android:name="com.google.android.gms.measurement.AppMeasurementService"
+218-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:45:13-84
+219            android:enabled="true"
+219-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:46:13-35
+220            android:exported="false" />
+220-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:47:13-37
+221        <service
+221-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:48:9-52:72
+222            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+222-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:49:13-87
+223            android:enabled="true"
+223-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:50:13-35
+224            android:exported="false"
+224-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:51:13-37
+225            android:permission="android.permission.BIND_JOB_SERVICE" />
+225-->[com.google.firebase:firebase-analytics:16.0.6] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\d3c7e85996ceafd01675fc609e71a658\firebase-analytics-16.0.6\AndroidManifest.xml:52:13-69
+226
+227        <receiver
+227-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6fbc52654bb79ad642ebabbf44c7b8c1\firebase-iid-17.0.4\AndroidManifest.xml:37:9-44:20
+228            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+228-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6fbc52654bb79ad642ebabbf44c7b8c1\firebase-iid-17.0.4\AndroidManifest.xml:38:13-78
+229            android:exported="true"
+229-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6fbc52654bb79ad642ebabbf44c7b8c1\firebase-iid-17.0.4\AndroidManifest.xml:39:13-36
+230            android:permission="com.google.android.c2dm.permission.SEND" >
+230-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6fbc52654bb79ad642ebabbf44c7b8c1\firebase-iid-17.0.4\AndroidManifest.xml:40:13-73
+231            <intent-filter>
+231-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6fbc52654bb79ad642ebabbf44c7b8c1\firebase-iid-17.0.4\AndroidManifest.xml:41:13-43:29
+232                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+232-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6fbc52654bb79ad642ebabbf44c7b8c1\firebase-iid-17.0.4\AndroidManifest.xml:42:17-81
+232-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6fbc52654bb79ad642ebabbf44c7b8c1\firebase-iid-17.0.4\AndroidManifest.xml:42:25-78
+233            </intent-filter>
+234        </receiver>
+235        <!--
+236             FirebaseInstanceIdService performs security checks at runtime,
+237             no need for explicit permissions despite exported="true"
+238        -->
+239        <service
+239-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6fbc52654bb79ad642ebabbf44c7b8c1\firebase-iid-17.0.4\AndroidManifest.xml:50:9-56:19
+240            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+240-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6fbc52654bb79ad642ebabbf44c7b8c1\firebase-iid-17.0.4\AndroidManifest.xml:51:13-77
+241            android:exported="true" >
+241-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6fbc52654bb79ad642ebabbf44c7b8c1\firebase-iid-17.0.4\AndroidManifest.xml:52:13-36
+242            <intent-filter android:priority="-500" >
+242-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6fbc52654bb79ad642ebabbf44c7b8c1\firebase-iid-17.0.4\AndroidManifest.xml:53:13-55:29
+242-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6fbc52654bb79ad642ebabbf44c7b8c1\firebase-iid-17.0.4\AndroidManifest.xml:53:28-51
+243                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+243-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6fbc52654bb79ad642ebabbf44c7b8c1\firebase-iid-17.0.4\AndroidManifest.xml:54:17-80
+243-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\6fbc52654bb79ad642ebabbf44c7b8c1\firebase-iid-17.0.4\AndroidManifest.xml:54:25-77
+244            </intent-filter>
+245        </service>
+246
+247        <activity
+247-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\25a51b1e073bde11e45d730d26cf8b67\play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+248            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+248-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\25a51b1e073bde11e45d730d26cf8b67\play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+249            android:exported="false"
+249-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\25a51b1e073bde11e45d730d26cf8b67\play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+250            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+250-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\25a51b1e073bde11e45d730d26cf8b67\play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+251
+252        <provider
+252-->[com.google.firebase:firebase-common:16.0.3] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\bdc604d317798ae51e51767653362ac3\firebase-common-16.0.3\AndroidManifest.xml:10:9-14:39
+253            android:name="com.google.firebase.provider.FirebaseInitProvider"
+253-->[com.google.firebase:firebase-common:16.0.3] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\bdc604d317798ae51e51767653362ac3\firebase-common-16.0.3\AndroidManifest.xml:11:13-77
+254            android:authorities="br.ufrj.caronae.firebaseinitprovider"
+254-->[com.google.firebase:firebase-common:16.0.3] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\bdc604d317798ae51e51767653362ac3\firebase-common-16.0.3\AndroidManifest.xml:12:13-72
+255            android:exported="false"
+255-->[com.google.firebase:firebase-common:16.0.3] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\bdc604d317798ae51e51767653362ac3\firebase-common-16.0.3\AndroidManifest.xml:13:13-37
+256            android:initOrder="100" />
+256-->[com.google.firebase:firebase-common:16.0.3] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\bdc604d317798ae51e51767653362ac3\firebase-common-16.0.3\AndroidManifest.xml:14:13-36
+257
+258        <meta-data
+258-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\ed79ac007443c44d2a08f097f7c8ff3a\play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+259            android:name="com.google.android.gms.version"
+259-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\ed79ac007443c44d2a08f097f7c8ff3a\play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+260            android:value="@integer/google_play_services_version" />
+260-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\ed79ac007443c44d2a08f097f7c8ff3a\play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+261        <!--
+262         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+263         with the application context. This config is merged in with the host app's manifest,
+264         but there can only be one provider with the same authority activated at any given
+265         point; so if the end user has two or more different apps that use Facebook SDK, only the
+266         first one will be able to use the provider. To work around this problem, we use the
+267         following placeholder in the authority to identify each host application as if it was
+268         a completely different provider.
+269        -->
+270        <provider
+270-->[com.facebook.android:facebook-core:4.31.0] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\f4922ee1063c495915eb0e301358bc80\facebook-core-4.31.0\AndroidManifest.xml:39:9-42:40
+271            android:name="com.facebook.internal.FacebookInitProvider"
+271-->[com.facebook.android:facebook-core:4.31.0] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\f4922ee1063c495915eb0e301358bc80\facebook-core-4.31.0\AndroidManifest.xml:40:13-70
+272            android:authorities="br.ufrj.caronae.FacebookInitProvider"
+272-->[com.facebook.android:facebook-core:4.31.0] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\f4922ee1063c495915eb0e301358bc80\facebook-core-4.31.0\AndroidManifest.xml:41:13-72
+273            android:exported="false" />
+273-->[com.facebook.android:facebook-core:4.31.0] C:\Users\Lucas\.gradle\caches\transforms-2\files-2.1\f4922ee1063c495915eb0e301358bc80\facebook-core-4.31.0\AndroidManifest.xml:42:13-37
+274    </application>
+275
+276</manifest>

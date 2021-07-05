@@ -1,0 +1,914 @@
+[
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_layout.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\rounded_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_placeholder_media.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\placeholder_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_plate_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_plate_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_check_black_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_check_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_send_white_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_send_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_separator_all_rides.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\separator_all_rides.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_top.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\btn_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_person_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_location_on_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_location_on_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_placebar.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\custom_placebar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_check_black_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_check_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ics_date_and_time.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ics_date_and_time.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_right_slide_in.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\anim\\anim_right_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_phone_dialog.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\custom_phone_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_capture_photo_view.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\capture_photo_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_left_slide_out.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\anim\\anim_left_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_color_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_color_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_clear_white_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_toolbar_my_rides.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\menu\\toolbar_my_rides.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_myrides_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_myrides_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11_ic_stat_name.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_person_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_profile.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\activity_my_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_up_slide_out.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\anim\\anim_up_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_email_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_report_button.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\report_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_keyboard_arrow_right_black_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_keyboard_arrow_right_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_ridehistory.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\item_ridehistory.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_capture_photo_pressed.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\btn_capture_photo_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_date_and_time.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ics_date_and_time.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_filter.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_filter.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_media.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\activity_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_directions_car_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_directions_car_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_capture_photo.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\btn_capture_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_fade_out.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\anim\\anim_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_keyboard_arrow_left_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_keyboard_arrow_left_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_access_time_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_access_time_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_myrides_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_myrides_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_transparency_gradient_botton_top.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\transparency_gradient_botton_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_account_balance_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_account_balance_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_done_white_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_done_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_placeholder_error_media.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\placeholder_error_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_date_and_time.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ics_date_and_time.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_search_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_send_white_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_send_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_person_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_search_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_color_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_color_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_plate_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_plate_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_left.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\btn_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_texture_view.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\texture_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_separated_rounded_button.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\separated_rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_keyboard_arrow_right_black_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_keyboard_arrow_right_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_check_black_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_check_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_send_white_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_send_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_myrides_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_myrides_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_newride_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_newride_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_search_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_chatmsg_right.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\item_chatmsg_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_email_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_share_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_share_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_account_balance_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_account_balance_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_all_rides.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\fragment_all_rides.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ride_search.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\fragment_ride_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_plate_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_plate_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_access_time_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_access_time_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_loading_messages_down.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\anim\\anim_loading_messages_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_bar.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\color_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_place.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\activity_place.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_left.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\back_left.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_check_black_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_check_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_search_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_newride_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_newride_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_media_item_view.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\media_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_filter.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_filter.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_camera_color.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\ic_camera_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_color_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_color_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_calendar_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_calendar_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_my_rides_card.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\item_my_rides_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_left.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\tab_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_gallery_picker_view.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\gallery_picker_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_photo.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\btn_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_pic.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\user_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_share_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_share_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_access_time_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_access_time_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_date_and_time.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ics_date_and_time.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v11_ic_stat_name.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi-v11\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ics_date_and_time.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ics_date_and_time.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_location_on_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_location_on_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_phone_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_phone_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_falae.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\activity_falae.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_filter.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_filter.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_filter.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_filter.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_spn_dropdown.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\row_spn_dropdown.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_calendar_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_calendar_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_phone_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_phone_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_calendar_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_keyboard_arrow_right_black_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_keyboard_arrow_right_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_plate_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_plate_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_allrides_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_allrides_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_allrides_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_allrides_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_done_white_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_done_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_location_on_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_location_on_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_flash_on.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\ic_flash_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_keyboard_arrow_right_black_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_right_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_filter.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_filter.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_check_black_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_check_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_stroke_button.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\rounded_stroke_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_account_balance_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_account_balance_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_location_on_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_location_on_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_color_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_color_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_keyboard_arrow_left_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_left_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_dialog.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_rides_history.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\fragment_rides_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_expand_photo_dialog.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\expand_photo_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_directions_car_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_directions_car_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_email_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_allrides_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_allrides_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_switch_camera.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\ic_switch_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_right.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\back_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_bg.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\edittext_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_network.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\xml\\network.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_newride_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_newride_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ride_detail.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\activity_ride_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_allrides_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_allrides_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu_options.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\activity_menu_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_right_slide_out.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\anim\\anim_right_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_keyboard_arrow_left_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_keyboard_arrow_left_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_person_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_share_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_share_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.wav.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\raw\\beep.wav"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_email_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_phone_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_access_time_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_access_time_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_rides_card.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\item_rides_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar_view.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\toolbar_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_my_rides.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\fragment_my_rides.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_clear_white_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_phone_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_phone_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_toolbar_menu.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\menu\\toolbar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_all_rides_list.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\fragment_all_rides_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_keyboard_arrow_right_black_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_keyboard_arrow_right_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_myrides_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_myrides_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_welcome.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\ic_welcome.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_calendar_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_calendar_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_directions_car_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_directions_car_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_account_balance_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_account_balance_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_navigationtextselector.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\navigationtextselector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_opening.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\activity_opening.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_my_profile_show.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\fragment_my_profile_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_clear_white_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ride_filter.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\fragment_ride_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_directions_car_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_directions_car_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_fade_in.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\anim\\anim_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_color.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\btn_color.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_down_slide_in.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\anim\\anim_down_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_right.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\btn_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_falae.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\fragment_falae.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_options_menu.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\fragment_options_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ride_search.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\activity_ride_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_places.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\fragment_places.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_logout.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\btn_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_spn.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\row_spn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_clear_white_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_plate_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_plate_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_color_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_color_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ride_offer.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\fragment_ride_offer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_my_profile_edit.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\fragment_my_profile_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_search_rides_list.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\fragment_search_rides_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_keyboard_arrow_left_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_keyboard_arrow_left_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_right.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\tab_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_surface_view.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\surface_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_newride_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_newride_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_location_on_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_location_on_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_myrides_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_myrides_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_done_white_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_done_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_person_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_datetimepicker.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\custom_datetimepicker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_send_white_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_send_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_directions_car_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_directions_car_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_done_white_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_done_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_newride_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_newride_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_send_white_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_send_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_clear_white_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11_ic_stat_name.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxhdpi-v11\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_up_slide_in.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\anim\\anim_up_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bottom.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\btn_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_calendar_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_calendar_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_phone_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_phone_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_share_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_share_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_chatmsg_left.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\item_chatmsg_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v11_ic_stat_name.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi-v11\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_flash_off.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\ic_flash_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_dialog_shape.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\custom_dialog_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_left_slide_in.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\anim\\anim_left_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_loading_messages_up.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\anim\\anim_loading_messages_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_account_balance_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_account_balance_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_email_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_faq.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\fragment_faq.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_access_time_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_access_time_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_bottom_dialog.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\layout\\custom_bottom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_done_white_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_done_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_share_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_share_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_allrides_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_allrides_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_flash_auto.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable\\ic_flash_auto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_down_slide_out.xml.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\anim\\anim_down_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_keyboard_arrow_left_24dp.png.flat",
+        "source": "C:\\Users\\Lucas\\Desktop\\caronae-backend-22-06\\android\\caronae-android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_keyboard_arrow_left_24dp.png"
+    }
+]
