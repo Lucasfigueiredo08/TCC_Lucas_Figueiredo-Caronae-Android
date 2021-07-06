@@ -1,4 +1,4 @@
-﻿# Caronaê - Android
+# TCC Lucas Figueiredo - Caronaê Android
 
 [![CircleCI](https://circleci.com/gh/caronae/caronae-android.svg?style=svg)](https://circleci.com/gh/caronae/caronae-android)
 
