@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Primary Colors -->
+    <color name="colorAccent">#565658</color>
+    <color name="colorPrimary">#EEEEEE</color>
+    <color name="colorPrimaryDark">#00FF00</color>
+
+    <!-- UI Colors -->
+    <color name="welcome_text_green">#00ba7f</color>
+    <color name="black_overlay_background">#66000000</color>
+    <color name="menu_profile_background" type="color">#CCCCCC</color>
+    <item name="phone_text_color" type="color">#3083FB</item>
+    <item name="report_button_red" type="color">#ED2E0D</item>
+    <item name="picture_change_green" type="color">#80325658</item>
+
+    <!-- Default Colors -->
+    <item name="black" type="color">#000</item>
+    <item name="white" type="color">#fff</item>
+    <item name="gray" type="color">#949499</item>
+    <item name="red" type="color">#FFFF4444</item>
+    <item name="blue" type="color">#FF33B5E5</item>
+
+    <!-- Light Colors -->
+    <color name="light_gray" type="color">#EEEEEE</color>
+
+    <!-- Dark Colors -->
+    <item name="darkblue" type="color">#1E61FF</item>
+    <item name="dark_gray" type="color">#565658</item>
+
+    <!-- Transparencies -->
+    <color name="transparency">#00FFFFFF</color>
+    <color name="white_transparency">#EEFFFFFF</color>
+    <color name="gray_transparency" type="color">#CC949499</color>
+    <color name="light_gray_transparency" type="color">#CCEEEEEE</color>
+
+    <!-- Camera Colors -->
+    <color name="green_camera">#A8B32C</color>
+    <color name="egg_shell_camera">#EFEEED</color>
+    <color name="white_60_camera">#99FFFFFF</color>
+    <color name="red_error_camera">#C86A6A</color>
+    <color name="red_record_camera">#CE0B24</color>
+
+</resources>

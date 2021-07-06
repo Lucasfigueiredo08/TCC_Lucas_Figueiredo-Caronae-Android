@@ -1,0 +1,140 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context="br.ufrj.caronae.frags.RideSearchFrag">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/tabs"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:weightSum="2"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_marginEnd="25dp"
+            android:layout_centerHorizontal="true"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:id="@+id/tab1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:focusable="true"
+                android:background="@drawable/tab_left"
+                android:layout_marginRight="-2dp"
+                android:layout_marginEnd="-2dp">
+
+                <TextView
+                    android:id="@+id/tab1_tv"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textSize="12sp"
+                    android:maxLines="1"
+                    android:gravity="center"
+                    android:textColor="@color/white"
+                    android:text="@string/arriving_ufrj"/>
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@+id/tab2"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:focusable="true"
+                android:layout_marginLeft="-2dp"
+                android:layout_marginStart="-2dp"
+                android:background="@drawable/tab_right">
+                <TextView
+                    android:id="@+id/tab2_tv"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textSize="12sp"
+                    android:maxLines="1"
+                    android:gravity="center"
+                    android:text="@string/leaving_ufrj"
+                    android:textColor="@color/dark_gray"/>
+
+            </RelativeLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/lay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tabs"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp">
+
+            <EditText
+                android:id="@+id/center_et"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_location_on_24dp"
+                android:drawableStart="@drawable/ic_location_on_24dp"
+                android:drawablePadding="5dp"
+                android:focusable="false"
+                android:lines="1"
+                android:scrollHorizontally="true"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:editable="false"
+                android:text="@string/fragment_ridefilter_center_hint" />
+            <EditText
+                android:id="@+id/location_et"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/center_et"
+                android:drawableLeft="@drawable/ic_location_on_24dp"
+                android:drawablePadding="5dp"
+                android:lines="1"
+                android:scrollHorizontally="true"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:editable="false"
+                android:drawableStart="@drawable/ic_location_on_24dp"
+                android:focusable="false"
+                android:text="@string/fragment_ridefilter_location_hint" />
+
+            <EditText
+                android:id="@+id/time_et"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/location_et"
+                android:drawableStart="@drawable/ics_date_and_time"
+                android:drawableLeft="@drawable/ics_date_and_time"
+                android:drawablePadding="5dp"
+                android:focusable="false"
+                android:singleLine="true"
+                android:textSize="16sp"
+                android:gravity="end"
+                android:text="segunda-feira, 01/05/2018 07:00"
+                android:textAlignment="viewEnd"
+                android:textColor="@color/dark_gray" />
+
+            <Button
+                android:id="@+id/search_bt"
+                android:layout_width="96dp"
+                android:layout_height="38dp"
+                android:layout_marginTop="20dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@id/time_et"
+                android:background="@drawable/btn_color"
+                android:text="@string/search_uppercase"
+                android:textColor="@color/dark_gray" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+</android.support.design.widget.CoordinatorLayout>

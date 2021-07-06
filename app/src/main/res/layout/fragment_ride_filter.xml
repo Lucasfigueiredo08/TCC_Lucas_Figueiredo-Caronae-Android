@@ -1,0 +1,76 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context="br.ufrj.caronae.frags.RideSearchFrag">
+
+    <RelativeLayout
+        android:id="@+id/lay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp">
+
+        <EditText
+            android:id="@+id/center_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/filter_description"
+            android:layout_alignParentTop="true"
+            android:layout_alignStart="@+id/filter_description"
+            android:drawableLeft="@drawable/ic_location_on_24dp"
+            android:drawablePadding="5dp"
+            android:lines="1"
+            android:scrollHorizontally="true"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:editable="false"
+            android:drawableStart="@drawable/ic_location_on_24dp"
+            android:focusable="false"
+            android:hint="@string/fragment_ridefilter_center_hint" />
+
+        <EditText
+            android:id="@+id/location_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/center_et"
+            android:layout_marginLeft="5dp"
+            android:layout_marginStart="5dp"
+            android:drawableLeft="@drawable/ic_location_on_24dp"
+            android:drawablePadding="5dp"
+            android:lines="1"
+            android:scrollHorizontally="true"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:editable="false"
+            android:drawableStart="@drawable/ic_location_on_24dp"
+            android:focusable="false"
+            android:hint="@string/fragment_ridefilter_location_hint" />
+
+        <TextView
+            android:id="@+id/filter_description"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginStart="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/location_et"
+            android:text="@string/fragment_filterride_description"/>
+
+        <Button
+            android:id="@+id/search_bt"
+            android:layout_width="96dp"
+            android:layout_height="38dp"
+            android:layout_marginTop="30dp"
+            android:layout_below="@+id/filter_description"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:background="@drawable/btn_color"
+            android:text="@string/filter_uppercase"
+            android:textColor="@color/dark_gray"/>
+
+    </RelativeLayout>
+</RelativeLayout>
+
+
+

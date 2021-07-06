@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    android:background="@color/white">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp">
+        <TextView
+            android:id="@+id/reason_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/reason_of_contact_uppercase"
+            android:layout_marginStart="3dp"
+            android:layout_marginLeft="3dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="20sp" />
+        <EditText
+            android:id="@+id/reason_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:cursorVisible="false"
+            android:layout_below="@+id/reason_tv"
+            android:hint="@string/complaint"
+            android:textColorHint="@color/black"
+            android:singleLine="true"
+            android:clickable="true"
+            android:focusable="false"
+            android:focusableInTouchMode="false"/>
+        <TextView
+            android:id="@+id/subject_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/reason_et"
+            android:text="@string/subject_uppercase"
+            android:layout_marginStart="3dp"
+            android:layout_marginLeft="3dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="20sp" />
+        <EditText
+            android:id="@+id/subject_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/subject_tv"
+            android:clickable="true"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:theme="@style/DisabledEditText"
+            android:cursorVisible="true"
+            android:hint="@string/falae_subject_hint"
+            android:ellipsize="end"
+            android:lines="1"
+            android:scrollHorizontally="true"
+            android:backgroundTint="@color/black"
+            android:singleLine="true" />
+        <TextView
+            android:id="@+id/message_tv"
+
+            android:layout_marginStart="3dp"
+            android:layout_marginLeft="3dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/subject_et"
+            android:text="@string/message_uppercase"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/message_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/message_tv"
+            android:clickable="true"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:cursorVisible="true"
+            android:layout_marginStart="3dp"
+            android:layout_marginLeft="3dp"
+            android:background="@color/transparency"
+            android:gravity="top|start"
+            android:inputType="textMultiLine"
+            android:minLines="5"
+            android:hint="@string/falae_message_hint" />
+    </RelativeLayout>
+</ScrollView>
