@@ -1,5 +1,8 @@
 # TCC Lucas Figueiredo - Caronaê Android
 
+## Link do repositório original:
+https://github.com/caronae/caronae-android
+
 [![CircleCI](https://circleci.com/gh/caronae/caronae-android.svg?style=svg)](https://circleci.com/gh/caronae/caronae-android)
 
 Aplicativo para Android do Caronaê.
