@@ -1,6 +1,6 @@
 <?php
 
-namespace Caronae\Http\Controllers\API\v1;
+namespace Caronae\Http\Controllers\API\V1;
 
 use Caronae\Models\Message;
 use Caronae\Models\Ride;

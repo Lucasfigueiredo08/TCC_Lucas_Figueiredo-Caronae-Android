@@ -1,6 +1,6 @@
 <?php
 
-namespace Caronae\Http\Controllers\API\v1;
+namespace Caronae\Http\Controllers\API\V1;
 
 use Caronae\Mail\FalaeMessage;
 use Caronae\Models\User;
