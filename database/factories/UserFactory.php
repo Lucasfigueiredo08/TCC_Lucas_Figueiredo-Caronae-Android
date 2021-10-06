@@ -18,7 +18,7 @@ $factory->define(User::class, function (Faker $faker) {
     return [
         'name' => $faker->name,
         'email' => $faker->email,
-        'profile' => $faker->randomElement(['Graduação', 'Mestrado', 'Servidor']),
+        'profile' => $faker->randomElement(['Aluno', 'Professor', 'Técnico']),//$faker->randomElement(['Graduação', 'Mestrado', 'Servidor']),
         'course' => $faker->randomElement(['Engenharia Civil', 'Ciência da Computação', 'Engenharia de Sistemas e Computação', 'Nanotecnologia', 'Letras', 'Medicina', 'Enfermagem']),
         'phone_number' => $faker->regexify('[0-9]{11}'),
         'location' => $faker->city,
