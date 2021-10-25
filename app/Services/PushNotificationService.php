@@ -16,9 +16,9 @@ class PushNotificationService
 
     public function __construct()
     {
-        $fcmApiKey = env('FCM_API_KEY');
+        $fcmApiKey = env('AAAA2upkCPo:APA91bEjQrXnRHRb7knsDnlSxhW_wzcxa9VaCxIM3hJq1vnu7qZcEdGUBfFf44zgiA1qhTQIPTVmB-wCgPaohPDrsSItIbnFs51Q4Al0WgKMKBUBVXZ1sMTui2iYjFwXPa7VP1z4d3E8');
         if (empty($fcmApiKey)) {
-            throw new FirebaseException('FCM API key must be provided');
+            throw new FirebaseException('AAAA2upkCPo:APA91bEjQrXnRHRb7knsDnlSxhW_wzcxa9VaCxIM3hJq1vnu7qZcEdGUBfFf44zgiA1qhTQIPTVmB-wCgPaohPDrsSItIbnFs51Q4Al0WgKMKBUBVXZ1sMTui2iYjFwXPa7VP1z4d3E8');
         }
 
         $this->client = new Client([
