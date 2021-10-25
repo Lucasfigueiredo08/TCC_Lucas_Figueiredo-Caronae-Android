@@ -10,7 +10,7 @@ use Log;
 
 class PushNotificationService
 {
-    const FCM_API_URL = 'https://fcm.googleapis.com/fcm/';
+    const FCM_API_URL = 'https://fcm.googleapis.com/fcm/send';
 
     private $client;
 
