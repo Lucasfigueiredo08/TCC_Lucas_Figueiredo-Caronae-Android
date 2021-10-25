@@ -10,15 +10,15 @@ use Log;
 
 class PushNotificationService
 {
-    const FCM_API_URL = 'https://fcm.googleapis.com/fcm/send';
+    const FCM_API_URL = 'https://fcm.googleapis.com/fcm/';
 
     private $client;
 
     public function __construct()
     {
-        $fcmApiKey = env('AIzaSyDuJ-tw-Vv_5DfmY0cZPSw9DXCk__vmn7o');
+        $fcmApiKey = env('FCM_API_KEY');
         if (empty($fcmApiKey)) {
-            throw new FirebaseException('AIzaSyDuJ-tw-Vv_5DfmY0cZPSw9DXCk__vmn7o');
+            throw new FirebaseException('FCM API key must be provided');
         }
 
         $this->client = new Client([
